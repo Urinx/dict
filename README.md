@@ -1,0 +1,2 @@
+# dict
+terminal dictionary - mac
